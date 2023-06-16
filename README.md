@@ -11,3 +11,5 @@ You are not expected to discover an efficient solution to this yourself from fir
 
 
 https://projecteuler.net/problem=6
+
+<img width="571" alt="Capture d’écran 2023-06-16 à 12 00 24" src="https://github.com/NigeParis/Difference_of_squares/assets/128382762/3e2f3cad-83c5-40ac-bb92-3ad3f240b846">
