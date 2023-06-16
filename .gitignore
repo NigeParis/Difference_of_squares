@@ -1,0 +1,6 @@
+# ignore ALL .o files
+*.o
+# ignore file exec difference_of_squares
+difference_of_squares
+# ignore file .DS_Store
+.DS_Store
